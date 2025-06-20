@@ -1,3 +1,14 @@
-# Product-Sales-Dashboard-Excel
+# Product Sales Dashboard with Excel
 
-Project Description: In this data, I focused on extracting meaningful insights from Product's Sales Data and presenting them in a clear,consice
+### Overview
+
+This project focuses on extracting meaningful insights from product sales data and presenting them in a clear, concise, and visually appealing manner. Using Excel's powerful analytical features, particularly Pivot Tables and Pivot Charts, I've created an interactive dashboard to showcase key sales performance metrics and profitability analysis.
+
+### Project HighligthsPerformed comprehensive sales data analysis using Excel
+
+Developed interactive dashboards with Pivot Tables and Pivot Charts
+
+Implemented data visualization techniques to highlight key trends
+
+Conducted profitability analysis at product and category levels
+
