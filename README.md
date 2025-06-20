@@ -25,6 +25,5 @@ This project focuses on extracting meaningful insights from product sales data a
 ### Dashboard Features
 
 - User-friendly Interface: Easy-to-navigate layout
-- Real-time Updates: Data refreshes automatically
 - Drill-down Capability: Explore details behind summary numbers
 - Print-ready Reports: Designed for professional presentation
