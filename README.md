@@ -65,3 +65,9 @@ The dashboard allows users to explore **monthly trends**, track **top-performing
 * ***Main Fields:*** Order Date, Customer Name, Segment, Product Category, Product Name, Sales, Profit, Quantity, Region, State
 * ***Cleaning:*** Handled missing values, removed duplicates, ensured consistent formatting
 
+---
+
+## 📷 Preview
+
+![Dashboard Product Sales Dashboard](Dashboard%20Product%20Sales%20Dashboard.png)
+
